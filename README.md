@@ -9,4 +9,5 @@ This program is a polyglot in **a lot** of langs. But it's also a *true polyglot
 
 # More info
 [RosettaCode](https://www.rosettacode.org/wiki/Empty_program)
+
 [SO](https://stackoverflow.com/questions/3209139/is-the-time-complexity-of-the-empty-algorithm-o0)
