@@ -22,5 +22,7 @@ It can also be considered a trivial [quine](https://en.wikipedia.org/wiki/Quine_
 
 The code coverage is either `undefined` or `Infinity` lol
 
-# More info
+# More info & related stuff
 [RosettaCode](https://www.rosettacode.org/wiki/Empty_program)
+
+[No Code](https://github.com/kelseyhightower/nocode)
