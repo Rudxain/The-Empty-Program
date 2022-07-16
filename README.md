@@ -20,9 +20,9 @@ This program is a [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing))
 
 It can also be considered a trivial [quine](https://en.wikipedia.org/wiki/Quine_(computing)), but since the program doesn't make use of I-O, it doesn't output an empty string, it outputs an undefined value, which is not quite the same.
 
-The code coverage is either `undefined` or `Infinity` lol
+The [code coverage](https://en.wikipedia.org/wiki/Code_coverage) is either `undefined` or `Infinity` lol
 
 # More info & related stuff
-[RosettaCode](https://www.rosettacode.org/wiki/Empty_program)
+[RosettaCode EPs](https://www.rosettacode.org/wiki/Empty_program)
 
 [No Code](https://github.com/kelseyhightower/nocode)
