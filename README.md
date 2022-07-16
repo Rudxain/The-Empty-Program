@@ -13,7 +13,7 @@ The set of identical programs is a subset of the equal programs. The set of equa
 Programs outside all these 3 sets are not EPs. However, a program may belong to one of these sets *depending on how it's interpreted*, which depends on both the chosen (arbitrarily) programming lang and its implementation of it. Source code comments are kind of controversial, because in some langs (like JS) they can have a subtle impact in the runtime of a program and its interaction wtih other components, even when `eval` isn't involved.
 
 # Computational Complexity
-Any identical and/or equal program has a time complexity of O(0), and only identical programs have space complexity of O(0). Any other equivalent program has O(1) for the reasons mentioned above. [More info on SO](https://stackoverflow.com/questions/3209139/is-the-time-complexity-of-the-empty-algorithm-o0)
+Any identical and/or equal program has a time (and energy) complexity of O(0), and only identical programs have space complexity of O(0). Any other equivalent program has O(1) for the reasons mentioned above. [More info on SO](https://stackoverflow.com/questions/3209139/is-the-time-complexity-of-the-empty-algorithm-o0)
 
 # Validity
 This program is a [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)) in **a lot** of langs. But it's also a *true polyglot* in the sense that it does exactly the same thing in many langs.
