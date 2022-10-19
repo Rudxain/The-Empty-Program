@@ -1,4 +1,5 @@
-# Definition
+# TEP
+## Definition
 An empty program is defined as a program that runs an implementation of the empty algorithm. The empty algorithm does **literally nothing**.
 
 A program is considered an "instance" of TEP if and only if it does nothing. There are 3 sets/categories an instance may belong to:
@@ -12,16 +13,16 @@ A program is considered an "instance" of TEP if and only if it does nothing. The
 The set of identical programs is a subset of the equal programs. The set of equal programs is a subset of equivalent ones.
 Programs outside all these 3 sets are not EPs. However, a program may belong to one of these sets *depending on how it's interpreted*, which depends on both the chosen (arbitrarily) programming lang and its implementation of it. Source code comments are kind of controversial, because in some langs (like JS) they can have a subtle impact in the runtime of a program and its interaction wtih other components, even when `eval` isn't involved.
 
-# Computational Complexity
+## Computational Complexity
 Any identical and/or equal program has a time (and energy) complexity of O(0), and only identical programs have space complexity of O(0). Any other equivalent program has O(1) for the reasons mentioned above. [More info on SO](https://stackoverflow.com/questions/3209139/is-the-time-complexity-of-the-empty-algorithm-o0)
 
-# Validity
+## Validity
 This program is a [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)) in **a lot** of langs. But it's also a *true polyglot* in the sense that it does exactly the same thing in many langs.
 
 It can also be considered a trivial [quine](https://en.wikipedia.org/wiki/Quine_(computing)), but since the program doesn't make use of I-O, it doesn't output an empty string, it outputs an undefined value, which is not quite the same.
 
 The [code coverage](https://en.wikipedia.org/wiki/Code_coverage) is either `undefined`, `0%`, `100%`, or `Infinity%` lol
 
-# More info & related stuff
+## See also
 - [RosettaCode EPs](https://www.rosettacode.org/wiki/Empty_program)
 - [No Code](https://github.com/kelseyhightower/nocode)
