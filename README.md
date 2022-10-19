@@ -1,4 +1,6 @@
 # TEP
+![](logo.svg)
+
 ## Definition
 An empty program is defined as a program that runs an implementation of the empty algorithm. The empty algorithm does **literally nothing**.
 
