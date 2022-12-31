@@ -19,7 +19,7 @@ Programs outside all these 3 sets are not EPs. However, a program may belong to 
 Any identical and/or equal program has a time (and energy) complexity of O(0), and only identical programs have space complexity of O(0). Any other equivalent program has O(1) for the reasons mentioned above. [More info on SO](https://stackoverflow.com/questions/3209139/is-the-time-complexity-of-the-empty-algorithm-o0)
 
 ## Validity
-This program is a [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)) in **a lot** of langs. But it's also a *true polyglot* in the sense that it does exactly the same thing in many langs.
+This program is a [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)) in [**a lot** of langs](https://github.com/mathiasbynens/small). But it's also a *true polyglot* in the sense that it does exactly the same thing in many langs.
 
 It can also be considered a trivial [quine](https://en.wikipedia.org/wiki/Quine_(computing)), but since the program doesn't make use of I-O, it doesn't output an empty string, it outputs an undefined value, which is not quite the same.
 
