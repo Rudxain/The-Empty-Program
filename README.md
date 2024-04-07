@@ -1,6 +1,9 @@
 # TEP
 ![](logo.svg)
 
+> [!warning]
+> This will be moved to [my wiki](https://github.com/Rudxain/RX-wiki)
+
 ## Definition
 An empty program is defined as a program that runs an implementation of the empty algorithm. The empty algorithm does **literally nothing**.
 
