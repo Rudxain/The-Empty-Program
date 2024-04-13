@@ -31,3 +31,4 @@ The [code coverage](https://en.wikipedia.org/wiki/Code_coverage) is either `unde
 ## See also
 - [RosettaCode EPs](https://www.rosettacode.org/wiki/Empty_program)
 - [No Code](https://github.com/kelseyhightower/nocode)
+- [Nothing](https://github.com/khooz/nothing)
